@@ -1,0 +1,49 @@
+{
+    "item": {
+        "name": "腕上矿工",
+        "description": "免费的小游戏",
+        "preview": [
+            "preview0.png",
+            "preview1.png"
+        ],
+        "icon": "icon.png",
+        "source_url": "https://github.com/cahkcs/kuanggo",
+        "author": [
+
+        ]
+    },
+    "downloads": {
+        "p65": {
+            "version": "1.1.0",
+            "file_name": "a.rpk"
+        },
+        "n67": {
+            "version": "1.1.0 ",
+            "file_name": "a.rpk"
+        },
+        "n62": {
+            "version": "1.1.0 ",
+            "file_name": "a.rpk"
+        },
+        "o62": {
+            "version": "1.1.0 ",
+            "file_name": "a.rpk"
+        },
+        "o62m": {
+            "version": "1.1.0 ",
+            "file_name": "a.rpk."
+        },
+        "o65": {
+            "version": "1.1.0 ",
+            "file_name": "a.rpk"
+        },
+        "o65m": {
+            "version": "1.1.0 ",
+            "file_name": "a.rpk"
+        },
+        "P65": {
+            "version": "1.1.0 ",
+            "file_name": "a.rpk"
+        }
+    }
+}
